@@ -7,7 +7,7 @@ The project simple asks the user to input a integer and play a guessing game. Th
 ## Technologies
 * Built in Dev C++
 
-## Setup
+## Setup/ How to run the project
 To install this project you must download from this github and then download the required coding program. Once you get everything downloaded you should be able to open the project in Dev C++ and compile and run it.
 
 ## Status
@@ -15,6 +15,9 @@ This project is finished.
 
 ## Inspiration
 This project was given to me as an assignment but once I finished it I added some touch ups that made it mine. 
+
+## Screenshots
+
 
 ## Contact
 Created by [@bbarnett4]
