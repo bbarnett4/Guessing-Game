@@ -17,7 +17,7 @@ This project is finished.
 This project was given to me as an assignment but once I finished it I added some touch ups that made it mine. 
 
 ## Screenshots
-https://github.com/bbarnett4/Guessing-Game/blob/master/Untitled.png?raw=true
+![](images/github-untilted.png)
         
       
 ## Contact
